@@ -186,7 +186,7 @@ export default function Home() {
           </div>
 
           <div className={`hidden md:flex space-x-6 text-sm font-medium ${darkMode ? 'text-slate-400' : 'text-slate-600'}`}>
-            <a href="#services" className="hover:text-blue-500 transition">Services</a>
+            <a href="#services" className="hover:text-blue-500 transition">Services </a>
             <a href="#tracker" className="hover:text-blue-500 transition">Track Project</a>
             <a href="#estimator" className="hover:text-blue-500 transition">Calculator</a>
             <a href="#work" className="hover:text-blue-500 transition">Work</a>
